@@ -1,0 +1,33 @@
+section p span{
+    color: blue;
+}
+
+
+
+body header p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article p1 {
+    background-color: black;
+    color: white;
+    font-size: 48;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 70px;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+article p2{
+    background-color: blueviolet; 
+    color: black;
+    font-size: 64;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 12px;
+    padding: auto ;
+    margin: auto;
+}
+article img {
+    size: width 400px height 300px;
+}
